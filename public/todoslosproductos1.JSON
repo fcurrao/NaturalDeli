@@ -1,0 +1,103 @@
+
+
+[
+  	{
+    "nombre": "ARROZ",
+    "url": "../img/ARROZ.jpg",
+    "marca": "BYNA",
+    "precio": 80,
+    "nroItem": 1,
+    "cantidad": 50,
+    "descripcion": "Arroz yamani organico 1kg",
+    "descripcionLarga" :"Arroz yamani integral organico fino",
+    "categoria": "Almacen"
+    },
+    {
+    "nombre": "MAYONESA",
+    "url": "../img/MAYONESA.jpg",
+    "marca": "MAYOV",
+    "precio": 45,
+    "nroItem": 2,
+    "cantidad": 100,
+    "descripcion": "Mayoliva 500gr",
+    "descripcionLarga" :"Mezcla de Mayonesa sin huevo y aceite de oliva ",
+    "categoria": "Almacen"
+    },
+    {
+    "nombre":  "SAL ROSA",
+    "url": "../img/SAL ROSA.jpg",
+    "marca": "LITTO",
+    "precio": 2800,
+    "nroItem": 3,
+    "cantidad": 20,
+    "descripcion": "Sal rosa 300gr",
+    "descripcionLarga" :"Sal marina rosa,sal intermedia",
+    "categoria": "Almacen"
+    },
+    {
+    "nombre": "FIDEOS",
+    "url": "../img/FIDEOS.jpg",
+    "marca": "GRUN",
+    "precio": 60,
+    "nroItem": 4,
+    "cantidad": 12,
+    "descripcion": "Tallarines integral 500gr",
+    "descripcionLarga" :"Tallarines de harina integral",
+    "categoria": "Almacen"
+    },
+    {
+    "nombre": "GALLETAS DE AGUA",
+    "url": "../img/GALLETAS DE AGUA.jpg",
+    "marca": "SMAMS",
+    "precio": 280,
+    "nroItem": 5,
+    "cantidad": 100,
+    "descripcion": "Crackers 150gr",
+    "descripcionLarga" :"Crackers, Galletitas de agua",
+    "categoria": "Almacen"
+    },
+    {
+    "nombre": "GALLETAS DE GARBANZO",
+    "url": "../img/GALLETAS DE GARBANZO.jpg",
+    "marca": "LOWIT",
+    "precio": 120,
+    "nroItem": 6,
+    "cantidad": 500,
+    "descripcion": "Galletas harina de garbanzo 150gr",
+    "descripcionLarga" :"Galletitas  de harina de garbanzo",
+    "categoria": "Almacen"
+    },
+      {
+    "nombre": "CHOCLO",
+    "url": "../img/CHOCLO.jpg",
+    "marca": "GREEN LIFE ",
+    "precio":  150,
+    "nroItem": 7,
+    "cantidad": 2500,
+    "descripcion": "Choclo 300gr",
+    "descripcionLarga" :"Choclo congelado agricola",
+    "categoria": "Congelados"
+    },
+      {
+    "nombre": "YERBA",
+    "url": "../img/YERBA.jpg",
+    "marca": "PORONGO",
+    "precio": 800,
+    "nroItem": 8,
+    "cantidad": 100,
+    "descripcion": "Yerba sin polvo",
+    "descripcionLarga" :"Yerba sin polvo cruda",
+    "categoria": "Almacen"
+    },
+      {
+    "nombre": "HAMBURGESA DE POLLO",
+    "url": "../img/HAMBURGESA DE POLLO.jpg",
+    "marca": "CHICKENVIL",
+    "precio": 650,
+    "nroItem": 9,
+    "cantidad": 200,
+    "descripcion": "Hamburguesa soja, sabor pollo",
+    "descripcionLarga" :"Hamburguesa Soja, Sabor pollo - chickenvil party",
+    "categoria": "Congelados"
+    }
+ ]
