@@ -1,0 +1,121 @@
+https://stackblitz.com/
+
+**********************************************************
+***************************************
+CLASE 1 
+***************************************
+**********************************************************
+
+* var es en todo el documento
+
+* let es solo en un contexto nada mas, funcion por ejemplo.
+
+* const no puede cambiar
+
+* funciones flechas: ALGO = () => {}
+
+* ...array
+
+**********************************************************
+***************************************
+CLASE 2
+***************************************
+**********************************************************
+
+* FIBER! virtual dom. 
+(diffing y dsp muestra el dom con el dif(evento virtual dom))
+
+* (dentro de la carpeta ,  y en la terminal) npx create-react-app NOMBRE-DE-LA-APP
+cd NOMBRE-DE-LA-APP (para entrar)
+npm start
+local hosto 3000
+
+* 
+
+*
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<
