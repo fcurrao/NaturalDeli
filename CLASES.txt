@@ -2,7 +2,7 @@ https://stackblitz.com/
 
 **********************************************************
 ***************************************
-CLASE 1 
+CLASE 1 | repaso
 ***************************************
 **********************************************************
 
@@ -18,7 +18,7 @@ CLASE 1
 
 **********************************************************
 ***************************************
-CLASE 2
+CLASE 2 | primeros usos REACT 
 ***************************************
 **********************************************************
 
@@ -30,10 +30,67 @@ cd NOMBRE-DE-LA-APP (para entrar)
 npm start
 local hosto 3000
 
+* readme.md : lo que se muestra en Github presentacion
+documentar y explicar, describir.
+
+* Gitignore : Las Carpetas que ignora GIT cuando sube
+
+* package.json : 
+Depedencias (librerias) que se instalaron
+Scripts: comandos , acciones, etc 
+eslint: herramientas de codigo (tipo usar comillas o simples, o espaciado, etc)
+
+* package-lock.json: Mantiene las versiones de las dependencias
+
+* node_modules: Todas las dependencias creadas por default (modulos, dependencias, librerias)
+
+* public: INDEX.HTML (id=root)( y carpeta con archivos otro.)
+
+* src:  TODO (todo, js, react , img, otros, svg, logos, etc..)
+
+* APP.js = PADRE
+
+* INDEX.JS = agarra el id=root , renderize el APP.js!
+(osea une el index.html con el app.js)
+
+
+* MUI  (mui.com) (como bootstrap) (nueva librerira, se agrega en package.json)
+npm install @mui/material @emotion/react @emotion/styled
+
+
+* swiperjs (carruselles, banner) (nueva libreria)
+npm install @mui/
+npm remove  o unistall
+
 * 
 
-*
+
+++++++++++++++++++++++++++++++++++
+// DESAFIO ENTREGABLE! 
+// Github ? ANDA ???
+// como volver atras con github ?
+
+miercoles AFTER ?? QUEDA GRABADO! 
+++++++++++++++++++++++++++++++++++
+
+
+
  
+**********************************************************
+***************************************
+CLASE 3 | JSX
+***************************************
+**********************************************************
+
+
+
+
+
+
+
+
+
+
 
 
 
