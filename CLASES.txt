@@ -64,6 +64,7 @@ npm remove  o unistall
 
 * 
 
+* GITHUB CON VISUAL CODE :!
 
 * GIT HUB ( Usar Github Desktop) o :
 1 crear un repository en "github.com"
@@ -75,23 +76,16 @@ npm remove  o unistall
 6 cambios: Control+S (se guarda) 
 7 Luego se almacena "cambios/changes" , "Almacenando todos los cambios"
 8 Confirmar en "control de codigo fuente" con el tilde. SE CREA UN "COMMIT"
-9 "Sincronizar cambios". SE CREA UN PUSH 
+
+PASO OJO (TENER CUIDADO - NO HAY RETORNO! ) (solo volver y ver que se hizo y borrarlo manualmente) !!
+
+9 "Sincronizar cambios". SE CREA UN PUSH  O "Push" en commit
 10 Listo! actualizado
 
-11 Borrar commit?
-12
-13
-14
-15
-
-
-
-++++++++++++++++++++++++++++++++++ 
-// como volver atras con github ?
-probando esto se va a borrar
-borrarrrrrr 
-++++++++++++++++++++++++++++++++++
-
+PASO BORRAR COMMIT ?
+11 Si no se hizo el "paso 9" >> "Sincronizar cambios" , se puede "undo commit" (en commits)
+12 Y se vuelve atras 
+13 Listo! Vuelto atras.
 
 
  
