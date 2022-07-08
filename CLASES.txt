@@ -73,6 +73,9 @@ npm remove  o unistall
 
 5 cambios: Control+S (se guarda y se "commit") 
 6 Luego se "push" en "cambios/changes" , "Almacenando todos los cambios"
+7 Confirmar en "control de codigo fuente" con el tilde.
+8 "Sincronizar cambios" 
+
 
 ++++++++++++++++++++++++++++++++++
 // DESAFIO ENTREGABLE! 
