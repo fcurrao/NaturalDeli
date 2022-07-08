@@ -65,9 +65,18 @@ npm remove  o unistall
 * 
 
 
+* GIT HUB ( Usar Github Desktop) o :
+1 crear un repository en "github.com"
+2 poner en consola (cd carpeta del archivo) y poner "git init"
+3 luego poner "git remote add origin https://github.com/fcurrao/NombreRespositorio.git 
+4 y luego en la parte de git del Visual, manejo todo
+
+5 cambios: Control+S (se guarda y se "commit") 
+6 Luego se "push" con 
+
 ++++++++++++++++++++++++++++++++++
 // DESAFIO ENTREGABLE! 
-// Github ? ANDA  ! VAMOSSSSS
+// Github ? ANDA  ! 
 // como volver atras con github ?
 
 miercoles AFTER ?? QUEDA GRABADO! 
