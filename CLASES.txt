@@ -71,18 +71,24 @@ npm remove  o unistall
 3 luego poner "git remote add origin https://github.com/fcurrao/NombreRespositorio.git 
 4 y luego en la parte de git del Visual, manejo todo
 
-5 cambios: Control+S (se guarda y se "commit") 
-6 Luego se "push" en "cambios/changes" , "Almacenando todos los cambios"
-7 Confirmar en "control de codigo fuente" con el tilde.
-8 "Sincronizar cambios" 
+5 Ahora hago (Guarda,Almacena,Confirma,Sincroniza)(GACS)
+6 cambios: Control+S (se guarda) 
+7 Luego se almacena "cambios/changes" , "Almacenando todos los cambios"
+8 Confirmar en "control de codigo fuente" con el tilde. SE CREA UN "COMMIT"
+9 "Sincronizar cambios". SE CREA UN PUSH 
+10 Listo! actualizado
+
+11 Borrar commit?
+12
+13
+14
+15
 
 
-++++++++++++++++++++++++++++++++++
-// DESAFIO ENTREGABLE! 
-// Github ? ANDA  ! 
+
+++++++++++++++++++++++++++++++++++ 
 // como volver atras con github ?
-
-miercoles AFTER ?? QUEDA GRABADO! 
+probando 
 ++++++++++++++++++++++++++++++++++
 
 
