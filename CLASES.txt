@@ -72,7 +72,7 @@ npm remove  o unistall
 4 y luego en la parte de git del Visual, manejo todo
 
 5 cambios: Control+S (se guarda y se "commit") 
-6 Luego se "push" con 
+6 Luego se "push" en "cambios/changes" , "Almacenando todos los cambios"
 
 ++++++++++++++++++++++++++++++++++
 // DESAFIO ENTREGABLE! 
