@@ -67,7 +67,7 @@ npm remove  o unistall
 
 ++++++++++++++++++++++++++++++++++
 // DESAFIO ENTREGABLE! 
-// Github ? ANDA ???!!!!!!!!!!!!!!!
+// Github ? ANDA ???!!!!!!!!!!!!!!!!!!
 // como volver atras con github ?
 
 miercoles AFTER ?? QUEDA GRABADO! 
