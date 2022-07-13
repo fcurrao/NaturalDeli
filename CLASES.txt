@@ -13,7 +13,7 @@ CLASE 1 | repaso
 * const no puede cambiar
 
 * funciones flechas: ALGO = () => {}
-
+ 
 * ...array
 
 **********************************************************
