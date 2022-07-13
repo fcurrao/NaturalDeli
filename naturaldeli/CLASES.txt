@@ -22,6 +22,8 @@ CLASE 2 | primeros usos REACT
 ***************************************
 **********************************************************
 
+* CREATE-REACT-APP ,  siempre asi!
+
 * FIBER! virtual dom. 
 (diffing y dsp muestra el dom con el dif(evento virtual dom))
 
@@ -91,24 +93,87 @@ PASO BORRAR COMMIT ?
  
 **********************************************************
 ***************************************
-CLASE 3 | JSX
+CLASE 3 | JSX | WEBPACK
 ***************************************
 **********************************************************
 
+* DESTRUCTURAR EN OBJETOS Y METODOS
+
+const produt ={
+    tittle: 'remera',
+    price: '50';
+}
+const {tittle, price} = product
+
+console.log("nombre:" + title)
+No hace falta ponerle product.title
+con el title basta, porque arriba destructure
+y le dije que cada vez que use la constante
+tittle y price   las busque de el tittle y price
+de product
+
+
+* DESTRUCTURAR "TERNARIO"
+IF (true y false)
+
+if(product.tittle){
+    console.log("tiene titulo");
+} else{
+    console.log(" NO tiene titulo");
+}
+
+TERNARIO == (es para true y false)
+console.log(product.tittle ? "tiene titulo" : "NO tiene titulo");
+
+
+* POLYFILLS (RETROCOMPATIBILIDAD)
+-parche para que funcione en todos los navegadores.
+
+* WEBPACK: 
+es un modulo (esta en moduls) , transforma los elementos
+en elementos que pueda leer el navegador 
+
+
+
+* JSX Y TRASPLANTIX
+
+
+- SE USA CLASSNAME, no CLASS
+- camelCase se usa 
+
+-ejemplo =>
+var nombre = "fede";
+
+  <p>
+         HOLA MUNDO, yo soy {nombre? nombre : "NO  TENGO NOMBRE"}
+        </p>
+
+
+
+-ejemplo =>
+  <div className="App" style={{padding:10%; marginTop: 10px;}}>
+
+
+
+-ejemplo =>
+    const styleApp={{padding:10%; marginTop: 10px;}}
+
+  <div className="App" style={styleApp}>
 
 
 
 
+* funciones dentro del <>
+<button onClieck={funcion}> Click </button>
 
 
+*asses (dentro de public) guarda fotos y otras cosas
 
+* components (dentro de src (surce)) guarda los componentes
 
-
-
-
-
-
-
+* exportado el componetns
+ <NavBar /> en APPS
+fragment <> en cada componente
 
 
 
